@@ -3,7 +3,7 @@
 
 This is a C++ console-based Library Management System developed as a semester project. It provides basic library functionalities such as adding books, borrowing and returning them, and displaying the current book list. The purpose of this project is to apply foundational C++ programming skills in a real-world scenario, using structured programming, user input, and data handling.
 
-🧠 **Project Description**
+#🧠 **Project Description**
 
 The Library Management System allows users to:
 
@@ -17,7 +17,7 @@ View the entire collection of books available in the library along with their au
 
 Initially, the system is preloaded with 10 popular books and their respective authors, which demonstrate how book records are handled.
 
-🛠 **Technologies and Concepts Used**
+#🛠 **Technologies and Concepts Used**
 
 Language:C++
 
@@ -37,7 +37,7 @@ Loops and conditionals for menu-based interaction
 
 Basic validation and error-checking
 
-📚 **Sample Book Records Included**
+#📚 **Sample Book Records Included**
 
 The system starts with the following pre-added books:
 
@@ -61,7 +61,7 @@ Frankenstein by Mary Shelley
 
 Great Expectations by Charles Dickens
 
-🎯 **Objectives of the Project**
+#🎯 **Objectives of the Project**
 
 Strengthen understanding of C++ data structures and user input/output handling.
 
@@ -71,7 +71,7 @@ Implement a user-friendly menu system and manage a dynamic book list.
 
 Practice data validation, searching through arrays, and modular program design.
 
-✅ **How It Works**
+#✅ **How It Works**
 
 Once the program is executed, a menu is displayed offering the following options:
 
@@ -87,7 +87,7 @@ Exit – Ends the program.
 
 Each action leads the user back to the main menu until they choose to exit.
 
-🔮 **Possible Future Improvements**
+#🔮 **Possible Future Improvements**
 
 While this project focuses on basic logic, several improvements could be added in the future:
 
@@ -101,6 +101,6 @@ Refactor code to use classes and object-oriented programming for better structur
 
 Introduce a graphical user interface (GUI) using frameworks like Qt or SFML for better usability.
 
-📌 **Final Notes**
+#📌 **Final Notes**
 
 This Library Management System is a beginner-friendly C++ project that provides a strong foundation in logic building and structured programming. It can serve as a stepping stone to more advanced systems involving databases, file handling, and OOP.

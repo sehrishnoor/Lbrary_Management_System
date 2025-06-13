@@ -1,5 +1,5 @@
 
-📚 ***Library Management System***
+# 📚 Library Management System
 
 This is a C++ console-based Library Management System developed as a semester project. It provides basic library functionalities such as adding books, borrowing and returning them, and displaying the current book list. The purpose of this project is to apply foundational C++ programming skills in a real-world scenario, using structured programming, user input, and data handling.
 
